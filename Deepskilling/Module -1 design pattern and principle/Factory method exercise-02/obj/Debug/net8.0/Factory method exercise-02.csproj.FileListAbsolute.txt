@@ -1,0 +1,15 @@
+C:\Users\Ujjwal kriti\Desktop\Cognizant\Deepskilling\Module -1 design pattern and principle\Factory method exercise-02\bin\Debug\net8.0\Factory method exercise-02.exe
+C:\Users\Ujjwal kriti\Desktop\Cognizant\Deepskilling\Module -1 design pattern and principle\Factory method exercise-02\bin\Debug\net8.0\Factory method exercise-02.deps.json
+C:\Users\Ujjwal kriti\Desktop\Cognizant\Deepskilling\Module -1 design pattern and principle\Factory method exercise-02\bin\Debug\net8.0\Factory method exercise-02.runtimeconfig.json
+C:\Users\Ujjwal kriti\Desktop\Cognizant\Deepskilling\Module -1 design pattern and principle\Factory method exercise-02\bin\Debug\net8.0\Factory method exercise-02.dll
+C:\Users\Ujjwal kriti\Desktop\Cognizant\Deepskilling\Module -1 design pattern and principle\Factory method exercise-02\bin\Debug\net8.0\Factory method exercise-02.pdb
+C:\Users\Ujjwal kriti\Desktop\Cognizant\Deepskilling\Module -1 design pattern and principle\Factory method exercise-02\obj\Debug\net8.0\Factory method exercise-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ujjwal kriti\Desktop\Cognizant\Deepskilling\Module -1 design pattern and principle\Factory method exercise-02\obj\Debug\net8.0\Factory method exercise-02.AssemblyInfoInputs.cache
+C:\Users\Ujjwal kriti\Desktop\Cognizant\Deepskilling\Module -1 design pattern and principle\Factory method exercise-02\obj\Debug\net8.0\Factory method exercise-02.AssemblyInfo.cs
+C:\Users\Ujjwal kriti\Desktop\Cognizant\Deepskilling\Module -1 design pattern and principle\Factory method exercise-02\obj\Debug\net8.0\Factory method exercise-02.csproj.CoreCompileInputs.cache
+C:\Users\Ujjwal kriti\Desktop\Cognizant\Deepskilling\Module -1 design pattern and principle\Factory method exercise-02\obj\Debug\net8.0\Factory method exercise-02.sourcelink.json
+C:\Users\Ujjwal kriti\Desktop\Cognizant\Deepskilling\Module -1 design pattern and principle\Factory method exercise-02\obj\Debug\net8.0\Factory method exercise-02.dll
+C:\Users\Ujjwal kriti\Desktop\Cognizant\Deepskilling\Module -1 design pattern and principle\Factory method exercise-02\obj\Debug\net8.0\refint\Factory method exercise-02.dll
+C:\Users\Ujjwal kriti\Desktop\Cognizant\Deepskilling\Module -1 design pattern and principle\Factory method exercise-02\obj\Debug\net8.0\Factory method exercise-02.pdb
+C:\Users\Ujjwal kriti\Desktop\Cognizant\Deepskilling\Module -1 design pattern and principle\Factory method exercise-02\obj\Debug\net8.0\Factory method exercise-02.genruntimeconfig.cache
+C:\Users\Ujjwal kriti\Desktop\Cognizant\Deepskilling\Module -1 design pattern and principle\Factory method exercise-02\obj\Debug\net8.0\ref\Factory method exercise-02.dll
