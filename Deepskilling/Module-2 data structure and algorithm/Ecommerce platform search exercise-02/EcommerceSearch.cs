@@ -75,3 +75,33 @@ class Program
             Console.WriteLine(result2.ProductName);
     }
 }
+
+
+// 1. Big O Notation
+
+// Definition:
+
+// Big O notation is used to measure the efficiency of an algorithm by describing how its running time grows as the input size increases.
+
+// Example
+// Linear Search  → O(n)
+// Binary Search  → O(log n)
+// 2. Search Cases
+// Best Case
+
+// Element found at first position.
+
+// Linear Search = O(1)
+// Binary Search = O(1)
+// Average Case
+
+// Element found somewhere in the middle.
+
+// Linear Search = O(n)
+// Binary Search = O(log n)
+// Worst Case
+
+// Element found at last position or not found.
+
+// Linear Search = O(n)
+// Binary Search = O(log n)
