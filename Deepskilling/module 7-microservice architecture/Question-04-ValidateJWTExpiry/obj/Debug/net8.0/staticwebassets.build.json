@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jC1lHlhqONlm/oGtgiGTC0/D8uBKfqGTri17ckAs+58=",
+  "Source": "Question-04-ValidateJWTExpiry",
+  "BasePath": "_content/Question-04-ValidateJWTExpiry",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

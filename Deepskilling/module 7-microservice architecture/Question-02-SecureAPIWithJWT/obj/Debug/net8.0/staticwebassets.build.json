@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Cn/tE5WiCGv8nLZ6UQuaA2cC+KT4fQfKwHmS/qs9XJI=",
+  "Source": "Question-02-SecureAPIWithJWT",
+  "BasePath": "_content/Question-02-SecureAPIWithJWT",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "B3PRVd6/bL0B9ijsH9uqa0e6lsvc62AGj7U0uLdgTUo=",
+  "Source": "Question-03-RoleBasedAuthorization",
+  "BasePath": "_content/Question-03-RoleBasedAuthorization",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
