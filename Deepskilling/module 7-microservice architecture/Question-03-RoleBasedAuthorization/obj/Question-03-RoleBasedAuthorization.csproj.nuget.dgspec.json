@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Ujjwal kriti\\Desktop\\Cognizant\\Deepskilling\\module 7-microservice architecture\\Question-03-RoleBasedAuthorization\\Question-03-RoleBasedAuthorization.csproj": {}
+    "C:\\Users\\Ujjwal kriti\\Desktop\\Cognizant\\Deepskilling\\module 7-microservice architecture\\Question-03-RoleBasedAuthorization\\Question-03-RoleBasedAuthorization.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Ujjwal kriti\\Desktop\\Cognizant\\Deepskilling\\module 7-microservice architecture\\Question-03-RoleBasedAuthorization\\Question-03-RoleBasedAuthorization.csproj": {
+    "C:\\Users\\Ujjwal kriti\\Desktop\\Cognizant\\Deepskilling\\module 7-microservice architecture\\Question-03-RoleBasedAuthorization\\Question-03-RoleBasedAuthorization.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Ujjwal kriti\\Desktop\\Cognizant\\Deepskilling\\module 7-microservice architecture\\Question-03-RoleBasedAuthorization\\Question-03-RoleBasedAuthorization.csproj",
+        "projectUniqueName": "C:\\Users\\Ujjwal kriti\\Desktop\\Cognizant\\Deepskilling\\module 7-microservice architecture\\Question-03-RoleBasedAuthorization\\Question-03-RoleBasedAuthorization.csproj",
         "projectName": "Question-03-RoleBasedAuthorization",
-        "projectPath": "c:\\Users\\Ujjwal kriti\\Desktop\\Cognizant\\Deepskilling\\module 7-microservice architecture\\Question-03-RoleBasedAuthorization\\Question-03-RoleBasedAuthorization.csproj",
+        "projectPath": "C:\\Users\\Ujjwal kriti\\Desktop\\Cognizant\\Deepskilling\\module 7-microservice architecture\\Question-03-RoleBasedAuthorization\\Question-03-RoleBasedAuthorization.csproj",
         "packagesPath": "C:\\Users\\Ujjwal kriti\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Ujjwal kriti\\Desktop\\Cognizant\\Deepskilling\\module 7-microservice architecture\\Question-03-RoleBasedAuthorization\\obj\\",
+        "outputPath": "C:\\Users\\Ujjwal kriti\\Desktop\\Cognizant\\Deepskilling\\module 7-microservice architecture\\Question-03-RoleBasedAuthorization\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ujjwal kriti\\AppData\\Roaming\\NuGet\\NuGet.Config"

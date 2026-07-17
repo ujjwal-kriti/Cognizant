@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Ujjwal kriti\\Desktop\\Cognizant\\Deepskilling\\module 7-microservice architecture\\Question-01-JWTAuthentication\\Question-01-JWTAuthentication.csproj": {}
+    "C:\\Users\\Ujjwal kriti\\Desktop\\Cognizant\\Deepskilling\\module 7-microservice architecture\\Question-01-JWTAuthentication\\Question-01-JWTAuthentication.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Ujjwal kriti\\Desktop\\Cognizant\\Deepskilling\\module 7-microservice architecture\\Question-01-JWTAuthentication\\Question-01-JWTAuthentication.csproj": {
+    "C:\\Users\\Ujjwal kriti\\Desktop\\Cognizant\\Deepskilling\\module 7-microservice architecture\\Question-01-JWTAuthentication\\Question-01-JWTAuthentication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Ujjwal kriti\\Desktop\\Cognizant\\Deepskilling\\module 7-microservice architecture\\Question-01-JWTAuthentication\\Question-01-JWTAuthentication.csproj",
+        "projectUniqueName": "C:\\Users\\Ujjwal kriti\\Desktop\\Cognizant\\Deepskilling\\module 7-microservice architecture\\Question-01-JWTAuthentication\\Question-01-JWTAuthentication.csproj",
         "projectName": "Question-01-JWTAuthentication",
-        "projectPath": "c:\\Users\\Ujjwal kriti\\Desktop\\Cognizant\\Deepskilling\\module 7-microservice architecture\\Question-01-JWTAuthentication\\Question-01-JWTAuthentication.csproj",
+        "projectPath": "C:\\Users\\Ujjwal kriti\\Desktop\\Cognizant\\Deepskilling\\module 7-microservice architecture\\Question-01-JWTAuthentication\\Question-01-JWTAuthentication.csproj",
         "packagesPath": "C:\\Users\\Ujjwal kriti\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Ujjwal kriti\\Desktop\\Cognizant\\Deepskilling\\module 7-microservice architecture\\Question-01-JWTAuthentication\\obj\\",
+        "outputPath": "C:\\Users\\Ujjwal kriti\\Desktop\\Cognizant\\Deepskilling\\module 7-microservice architecture\\Question-01-JWTAuthentication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ujjwal kriti\\AppData\\Roaming\\NuGet\\NuGet.Config"

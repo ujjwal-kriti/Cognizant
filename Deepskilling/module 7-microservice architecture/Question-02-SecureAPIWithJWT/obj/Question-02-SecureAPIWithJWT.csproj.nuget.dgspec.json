@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Ujjwal kriti\\Desktop\\Cognizant\\Deepskilling\\module 7-microservice architecture\\Question-02-SecureAPIWithJWT\\Question-02-SecureAPIWithJWT.csproj": {}
+    "C:\\Users\\Ujjwal kriti\\Desktop\\Cognizant\\Deepskilling\\module 7-microservice architecture\\Question-02-SecureAPIWithJWT\\Question-02-SecureAPIWithJWT.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Ujjwal kriti\\Desktop\\Cognizant\\Deepskilling\\module 7-microservice architecture\\Question-02-SecureAPIWithJWT\\Question-02-SecureAPIWithJWT.csproj": {
+    "C:\\Users\\Ujjwal kriti\\Desktop\\Cognizant\\Deepskilling\\module 7-microservice architecture\\Question-02-SecureAPIWithJWT\\Question-02-SecureAPIWithJWT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Ujjwal kriti\\Desktop\\Cognizant\\Deepskilling\\module 7-microservice architecture\\Question-02-SecureAPIWithJWT\\Question-02-SecureAPIWithJWT.csproj",
+        "projectUniqueName": "C:\\Users\\Ujjwal kriti\\Desktop\\Cognizant\\Deepskilling\\module 7-microservice architecture\\Question-02-SecureAPIWithJWT\\Question-02-SecureAPIWithJWT.csproj",
         "projectName": "Question-02-SecureAPIWithJWT",
-        "projectPath": "c:\\Users\\Ujjwal kriti\\Desktop\\Cognizant\\Deepskilling\\module 7-microservice architecture\\Question-02-SecureAPIWithJWT\\Question-02-SecureAPIWithJWT.csproj",
+        "projectPath": "C:\\Users\\Ujjwal kriti\\Desktop\\Cognizant\\Deepskilling\\module 7-microservice architecture\\Question-02-SecureAPIWithJWT\\Question-02-SecureAPIWithJWT.csproj",
         "packagesPath": "C:\\Users\\Ujjwal kriti\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Ujjwal kriti\\Desktop\\Cognizant\\Deepskilling\\module 7-microservice architecture\\Question-02-SecureAPIWithJWT\\obj\\",
+        "outputPath": "C:\\Users\\Ujjwal kriti\\Desktop\\Cognizant\\Deepskilling\\module 7-microservice architecture\\Question-02-SecureAPIWithJWT\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ujjwal kriti\\AppData\\Roaming\\NuGet\\NuGet.Config"

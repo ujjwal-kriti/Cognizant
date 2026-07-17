@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Ujjwal kriti\\Desktop\\Cognizant\\Deepskilling\\Module 6 -asp.net\\1.web_api\\1.web_api.csproj": {}
+    "C:\\Users\\Ujjwal kriti\\Desktop\\Cognizant\\Deepskilling\\Module 6 -asp.net\\1.web_api\\1.web_api.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Ujjwal kriti\\Desktop\\Cognizant\\Deepskilling\\Module 6 -asp.net\\1.web_api\\1.web_api.csproj": {
+    "C:\\Users\\Ujjwal kriti\\Desktop\\Cognizant\\Deepskilling\\Module 6 -asp.net\\1.web_api\\1.web_api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Ujjwal kriti\\Desktop\\Cognizant\\Deepskilling\\Module 6 -asp.net\\1.web_api\\1.web_api.csproj",
+        "projectUniqueName": "C:\\Users\\Ujjwal kriti\\Desktop\\Cognizant\\Deepskilling\\Module 6 -asp.net\\1.web_api\\1.web_api.csproj",
         "projectName": "1.web_api",
-        "projectPath": "c:\\Users\\Ujjwal kriti\\Desktop\\Cognizant\\Deepskilling\\Module 6 -asp.net\\1.web_api\\1.web_api.csproj",
+        "projectPath": "C:\\Users\\Ujjwal kriti\\Desktop\\Cognizant\\Deepskilling\\Module 6 -asp.net\\1.web_api\\1.web_api.csproj",
         "packagesPath": "C:\\Users\\Ujjwal kriti\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Ujjwal kriti\\Desktop\\Cognizant\\Deepskilling\\Module 6 -asp.net\\1.web_api\\obj\\",
+        "outputPath": "C:\\Users\\Ujjwal kriti\\Desktop\\Cognizant\\Deepskilling\\Module 6 -asp.net\\1.web_api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ujjwal kriti\\AppData\\Roaming\\NuGet\\NuGet.Config"

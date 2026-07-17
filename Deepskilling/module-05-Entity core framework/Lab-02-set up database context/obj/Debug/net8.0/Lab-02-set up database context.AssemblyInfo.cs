@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab-02-set up database context")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e98de772ea23837f069770fb8d072eb1b586cf11")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2be22b4ffe9548293436f66aaeb2315c69d3b9a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab-02-set up database context")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab-02-set up database context")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
