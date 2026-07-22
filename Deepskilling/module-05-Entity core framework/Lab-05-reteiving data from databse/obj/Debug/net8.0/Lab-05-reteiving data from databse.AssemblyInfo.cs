@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab-05-reteiving data from databse")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2be22b4ffe9548293436f66aaeb2315c69d3b9a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a630adfc0909c1b1f799a5ea1ea8aadd5429f1c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab-05-reteiving data from databse")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab-05-reteiving data from databse")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
